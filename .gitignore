@@ -1,0 +1,11 @@
+#common filters
+.DS_Store
+thumbs.db
+.svn
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+
+#build trash
+bin
+obj
